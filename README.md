@@ -9,14 +9,14 @@ Note you need to install following things to run code properly
 6) matplotlib
 and  creat virtualenv
 
-code here
-pip install tensorflow
-pip install flask numpy pandas sklearn matplotlib
-python-m pip install --user virtualenv
-python-m venv Fruit
+#code_here-
+1) pip install tensorflow
+2) pip install flask numpy pandas sklearn matplotlib
+3) python-m pip install --user virtualenv
+4) python-m venv Fruit
 
-script -- commands  to run 
-venv/scripts/activate.bat
-Python app.py
+#script--commands_to_run-
+1) venv/scripts/activate.bat
+2) Python app.py
 
 
